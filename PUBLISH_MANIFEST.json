@@ -1,0 +1,27 @@
+{
+  "version": "V51-DOR-content-update",
+  "static": true,
+  "entry": "index.html",
+  "netlify_publish_directory": ".",
+  "features": [
+    "curriculum",
+    "source-linked lessons",
+    "practice engine",
+    "25-question mock exam",
+    "GDL driving log",
+    "parent review",
+    "readiness score",
+    "PWA shell",
+    "offline cache",
+    "DOR documentation checklist",
+    "Driver Guide chapter map",
+    "Parent/guardian resources",
+    "Source revision watch"
+  ],
+  "source_baseline": {
+    "gdl": "https://dor.mo.gov/driver-license/issuance/graduated-driver-license/details.html",
+    "guide": "https://dor.mo.gov/driver-license/guide/",
+    "form_4821": "https://dor.mo.gov/forms/4821.pdf",
+    "form_4901": "https://dor.mo.gov/forms/4901.pdf"
+  }
+}
